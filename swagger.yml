@@ -1,0 +1,54 @@
+swagger: "2.0"
+info:
+  description: This is the swagger file that goes with our server code
+  version: "1.0.0"
+  title: Swagger REST Article
+consumes:
+  - "application/json"
+produces:
+  - "application/json"
+
+basePath: "/jw-stats-api"
+
+# Paths supported by the server application
+paths:
+  /country-reports/{year}:
+    get:
+      operationId: "country_reports.read"
+      summary: "List Territory reports for that year"
+      parameters:
+        - name: year
+          in: path
+          description: The starting/initial year
+          schema:
+            type: integer
+        - name: country
+          in: query
+          description: "Get report for a specific country"
+          required: false
+          schema:
+            type: string   
+      responses:
+        200:
+          description: "Successful read list of countries report"
+  /grand-totals/{year}:
+    get:
+      operationId: "grand_totals.read"
+      summary: "Grand totals for that year"
+      parameters:
+        - name: year
+          in: query
+          description: The starting/initial year
+          schema:
+            type: integer
+        - name: end_year
+          in: query
+          description: Ending year
+          required: false
+          schema:
+            type: integer   
+      responses:
+        200:
+          description: "Successful read of Grand Totals"
+
+  
