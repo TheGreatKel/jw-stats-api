@@ -6,7 +6,7 @@ app.add_api('swagger.yml')
 
 @app.route('/')
 def home():
-   #localhost:5000/
+   #localhost:5000
    return render_template('home.html')
 
 def main():

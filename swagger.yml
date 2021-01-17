@@ -20,14 +20,13 @@ paths:
         - name: year
           in: path
           description: The starting/initial year
-          schema:
-            type: integer
+          required: true
+          type: integer
         - name: country
           in: query
           description: "Get report for a specific country"
           required: false
-          schema:
-            type: string   
+          type: string
       responses:
         200:
           description: "Successful read list of countries report"
@@ -37,16 +36,15 @@ paths:
       summary: "Grand totals for that year"
       parameters:
         - name: year
-          in: query
+          in: path
           description: The starting/initial year
-          schema:
-            type: integer
+          required: true
+          type: integer
         - name: end_year
           in: query
           description: Ending year
           required: false
-          schema:
-            type: integer   
+          type: integer
       responses:
         200:
           description: "Successful read of Grand Totals"
