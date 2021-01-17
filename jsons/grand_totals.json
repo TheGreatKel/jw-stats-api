@@ -1,13 +1,32 @@
 [
     {
-    "Year": 2020,
-    "Peak Pubs.": "8,695,808",
-    "Av. Pubs.": "8,424,185",
-    "% Inc. Over 2019": -0.6,
-    "No. Bptzd.": "241,994",
-    "Av. Pio. Pubs.": "1,299,619",
-    "No. of Congs.": "120,387",
-    "Memorial Attendance": "17,844,773"
+        "Year": 2020,
+        "Peak Pubs.": "8,695,808",
+        "Av. Pubs.": "8,424,185",
+        "% Inc. Over 2019": -0.6,
+        "No. Bptzd.": "241,994",
+        "Av. Pio. Pubs.": "1,299,619",
+        "No. of Congs.": "120,387",
+        "Memorial Attendance": "17,844,773"
+    },
+    {
+       "Year": 2019,
+       "Peak Pubs.": "8,683,117",
+       "Av. Pubs.": "8,471,008",
+       "% Inc. Over 2018": 1.3,
+       "No. Bptzd.": "303,866",
+       "Av. Pio. Pubs.": "1,277,738",
+       "No. of Congs.": "119,712",
+       "Memorial Attendance": "20,919,041"
+    },
+    {
+       "Year": 2018,
+       "Peak Pubs.": "8,579,909",
+       "% Inc. Over 2017": 1.4,
+       "No. Bptzd.": "281,744",
+       "Av. Pio. Pubs.": "1,267,808",
+       "No. of Congs.": "119,954",
+       "Memorial Attendance": "20,329,317"
     }
 
 ]
