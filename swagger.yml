@@ -40,9 +40,9 @@ paths:
           description: The starting/initial year
           required: true
           type: integer
-        - name: end_year
+        - name: other_year
           in: query
-          description: Ending year
+          description: The other starting/ending year if you want a range
           required: false
           type: integer
       responses:
