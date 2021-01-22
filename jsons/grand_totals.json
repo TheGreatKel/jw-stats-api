@@ -1,41 +1,332 @@
 [
-    {
-        "Year": 2020,
-        "Peak Pubs.": "8,695,808",
-        "Av. Pubs.": "8,424,185",
-        "% Inc. Over 2019": -0.6,
-        "No. Bptzd.": "241,994",
-        "Av. Pio. Pubs.": "1,299,619",
-        "No. of Congs.": "120,387",
-        "Memorial Attendance": "17,844,773"
-    },
-    {
-       "Year": 2019,
-       "Peak Pubs.": "8,683,117",
-       "Av. Pubs.": "8,471,008",
-       "% Inc. Over 2018": 1.3,
-       "No. Bptzd.": "303,866",
-       "Av. Pio. Pubs.": "1,277,738",
-       "No. of Congs.": "119,712",
-       "Memorial Attendance": "20,919,041"
-    },
-    {
-       "Year": 2018,
-       "Peak Pubs.": "8,579,909",
-       "% Inc. Over 2017": 1.4,
-       "No. Bptzd.": "281,744",
-       "Av. Pio. Pubs.": "1,267,808",
-       "No. of Congs.": "119,954",
-       "Memorial Attendance": "20,329,317"
-    },
-    {
-       "Year": 2017,
-       "Peak Pubs.": "8,457,107",
-       "% Inc. Over 2016": 1.4,
-       "No. Bptzd.": "284,212",
-       "Av. Pio. Pubs.": "1,249,946",
-       "No. of Congs.": "120,053",
-       "Memorial Attendance": "20,175,477"
-    }
-
-]
+   {
+     "Year": 1991,
+     "Total Congregations": 66207,
+     "Worldwide Memorial Attendance": 10650158,
+     "Memorial Partakers Worldwide": 8850,
+     "Peak of Publishers": 4278820,
+     "Average Publishers Preaching Each Month": 4071954,
+     "Total Number Baptized": 300945,
+     "Total Hours Spent in Field": 951870021,
+     "Average Bible Studies Each Month": 3947261
+   },
+   {
+     "Year": 1992,
+     "Total Congregations": 69558,
+     "Worldwide Memorial Attendance": 11431171,
+     "Memorial Partakers Worldwide": 8683,
+     "Peak of Publishers": 4472787,
+     "Average Publishers Preaching Each Month": 4289737,
+     "Total Number Baptized": 301002,
+     "Total Hours Spent in Field": 1024910434,
+     "Average Bible Studies Each Month": 4278127
+   },
+   {
+     "Year": 1993,
+     "Total Congregations": 73070,
+     "Worldwide Memorial Attendance": 11865765,
+     "Memorial Partakers Worldwide": 8693,
+     "Peak of Publishers": 4709889,
+     "Average Publishers Preaching Each Month": 4483900,
+     "Total Number Baptized": 296004,
+     "Total Hours Spent in Field": 1057341972,
+     "Average Bible Studies Each Month": 4515587
+   },
+   {
+     "Year": 1994,
+     "Total Congregations": 75573,
+     "Worldwide Memorial Attendance": 12288917,
+     "Memorial Partakers Worldwide": 8617,
+     "Peak of Publishers": 4914094,
+     "Average Publishers Preaching Each Month": 4695111,
+     "Total Number Baptized": 314818,
+     "Total Hours Spent in Field": 1096065354,
+     "Average Bible Studies Each Month": 4701357
+   },
+   {
+     "Year": 1995,
+     "Total Congregations": 78620,
+     "Worldwide Memorial Attendance": 13147201,
+     "Memorial Partakers Worldwide": 8645,
+     "Peak of Publishers": 5199895,
+     "Average Publishers Preaching Each Month": 4950344,
+     "Total Number Baptized": 338491,
+     "Total Hours Spent in Field": 1150353444,
+     "Average Bible Studies Each Month": 4865060
+   },
+   {
+     "Year": 1996,
+     "Total Congregations": 81908,
+     "Worldwide Memorial Attendance": 12921933,
+     "Memorial Partakers Worldwide": 8757,
+     "Peak of Publishers": 5413769,
+     "Average Publishers Preaching Each Month": 5167258,
+     "Total Number Baptized": 366579,
+     "Total Hours Spent in Field": 1140621714,
+     "Average Bible Studies Each Month": 4855030
+   },
+   {
+     "Year": 1997,
+     "Total Congregations": 85256,
+     "Worldwide Memorial Attendance": 14322226,
+     "Memorial Partakers Worldwide": 8795,
+     "Peak of Publishers": 5599931,
+     "Average Publishers Preaching Each Month": 5353078,
+     "Total Number Baptized": 375923,
+     "Total Hours Spent in Field": 1179735841,
+     "Average Bible Studies Each Month": 4552589
+   },
+   {
+     "Year": 1998,
+     "Total Congregations": 87644,
+     "Worldwide Memorial Attendance": 13896312,
+     "Memorial Partakers Worldwide": 8756,
+     "Peak of Publishers": 5888650,
+     "Average Publishers Preaching Each Month": 5544059,
+     "Total Number Baptized": 316092,
+     "Total Hours Spent in Field": 1186666708,
+     "Average Bible Studies Each Month": 4302852
+   },
+   {
+     "Year": 1999,
+     "Total Congregations": 89985,
+     "Worldwide Memorial Attendance": 14088751,
+     "Memorial Partakers Worldwide": 8755,
+     "Peak of Publishers": 5912492,
+     "Average Publishers Preaching Each Month": 5653987,
+     "Total Number Baptized": 323439,
+     "Total Hours Spent in Field": 1144566849,
+     "Average Bible Studies Each Month": 4433884
+   },
+   {
+     "Year": 2000,
+     "Total Congregations": 91487,
+     "Worldwide Memorial Attendance": 14872086,
+     "Memorial Partakers Worldwide": 8661,
+     "Peak of Publishers": 6035564,
+     "Average Publishers Preaching Each Month": 5783003,
+     "Total Number Baptized": 288907,
+     "Total Hours Spent in Field": 1171270425,
+     "Average Bible Studies Each Month": 4766631
+   },
+   {
+     "Year": 2001,
+     "Total Congregations": 93154,
+     "Worldwide Memorial Attendance": 15374986,
+     "Memorial Partakers Worldwide": 8730,
+     "Peak of Publishers": 6117666,
+     "Average Publishers Preaching Each Month": 5881776,
+     "Total Number Baptized": 263431,
+     "Total Hours Spent in Field": 1169082225,
+     "Average Bible Studies Each Month": 4921702
+   },
+   {
+     "Year": 2002,
+     "Total Congregations": 94600,
+     "Worldwide Memorial Attendance": 15597746,
+     "Memorial Partakers Worldwide": 8760,
+     "Peak of Publishers": 6304645,
+     "Average Publishers Preaching Each Month": 6048600,
+     "Total Number Baptized": 265469,
+     "Total Hours Spent in Field": 1202381302,
+     "Average Bible Studies Each Month": 5309289
+   },
+   {
+     "Year": 2003,
+     "Total Congregations": 95919,
+     "Worldwide Memorial Attendance": 16097622,
+     "Memorial Partakers Worldwide": 8565,
+     "Peak of Publishers": 6429351,
+     "Average Publishers Preaching Each Month": 6184046,
+     "Total Number Baptized": 258845,
+     "Total Hours Spent in Field": 1234796477,
+     "Average Bible Studies Each Month": 5726509
+   },
+   {
+     "Year": 2004,
+     "Total Congregations": 96894,
+     "Worldwide Memorial Attendance": 16760607,
+     "Memorial Partakers Worldwide": 8570,
+     "Peak of Publishers": 6513132,
+     "Average Publishers Preaching Each Month": 6308341,
+     "Total Number Baptized": 262416,
+     "Total Hours Spent in Field": 1282234887,
+     "Average Bible Studies Each Month": 6085387
+   },
+   {
+     "Year": 2005,
+     "Total Congregations": 98269,
+     "Worldwide Memorial Attendance": 16383333,
+     "Memorial Partakers Worldwide": 8524,
+     "Peak of Publishers": 6613829,
+     "Average Publishers Preaching Each Month": 6390016,
+     "Total Number Baptized": 247631,
+     "Total Hours Spent in Field": 1278201985,
+     "Average Bible Studies Each Month": 6061546
+   },
+   {
+     "Year": 2006,
+     "Total Congregations": 99770,
+     "Worldwide Memorial Attendance": 16675113,
+     "Memorial Partakers Worldwide": 8758,
+     "Peak of Publishers": 6741444,
+     "Average Publishers Preaching Each Month": 6491775,
+     "Total Number Baptized": 248327,
+     "Total Hours Spent in Field": 1333966199,
+     "Average Bible Studies Each Month": 6286618
+   },
+   {
+     "Year": 2007,
+     "Total Congregations": 101376,
+     "Worldwide Memorial Attendance": 17672443,
+     "Memorial Partakers Worldwide": 9105,
+     "Peak of Publishers": 6957854,
+     "Average Publishers Preaching Each Month": 6691790,
+     "Total Number Baptized": 298304,
+     "Total Hours Spent in Field": 1431761554,
+     "Average Bible Studies Each Month": 6561426
+   },
+   {
+     "Year": 2008,
+     "Total Congregations": 103267,
+     "Worldwide Memorial Attendance": 17790631,
+     "Memorial Partakers Worldwide": 9986,
+     "Peak of Publishers": 7124443,
+     "Average Publishers Preaching Each Month": 6829455,
+     "Total Number Baptized": 289678,
+     "Total Hours Spent in Field": 1488658249,
+     "Average Bible Studies Each Month": 7133760
+   },
+   {
+     "Year": 2009,
+     "Total Congregations": 105298,
+     "Worldwide Memorial Attendance": 18168323,
+     "Memorial Partakers Worldwide": 10857,
+     "Peak of Publishers": 7313173,
+     "Average Publishers Preaching Each Month": 7046419,
+     "Total Number Baptized": 276233,
+     "Total Hours Spent in Field": 1557788344,
+     "Average Bible Studies Each Month": 7619270
+   },
+   {
+     "Year": 2010,
+     "Total Congregations": 107210,
+     "Worldwide Memorial Attendance": 18706895,
+     "Memorial Partakers Worldwide": 11202,
+     "Peak of Publishers": 7508050,
+     "Average Publishers Preaching Each Month": 7224930,
+     "Total Number Baptized": 294368,
+     "Total Hours Spent in Field": 1604764248,
+     "Average Bible Studies Each Month": 8058359
+   },
+   {
+     "Year": 2011,
+     "Total Congregations": 109403,
+     "Worldwide Memorial Attendance": 19374737,
+     "Memorial Partakers Worldwide": 11824,
+     "Peak of Publishers": 7659019,
+     "Average Publishers Preaching Each Month": 7395672,
+     "Total Number Baptized": 263131,
+     "Total Hours Spent in Field": 1707094710,
+     "Average Bible Studies Each Month": 8490746
+   },
+   {
+     "Year": 2012,
+     "Total Congregations": 111719,
+     "Worldwide Memorial Attendance": 19013343,
+     "Memorial Partakers Worldwide": 12604,
+     "Peak of Publishers": 7782346,
+     "Average Publishers Preaching Each Month": 7538994,
+     "Total Number Baptized": 268777,
+     "Total Hours Spent in Field": 1748697447,
+     "Average Bible Studies Each Month": 8759988
+   },
+   {
+     "Year": 2013,
+     "Total Congregations": 113823,
+     "Worldwide Memorial Attendance": 19241252,
+     "Memorial Partakers Worldwide": 13204,
+     "Peak of Publishers": 7965954,
+     "Average Publishers Preaching Each Month": 7698377,
+     "Total Number Baptized": 277344,
+     "Total Hours Spent in Field": 1841180235,
+     "Average Bible Studies Each Month": 9254963
+   },
+   {
+     "Year": 2014,
+     "Total Congregations": 115416,
+     "Worldwide Memorial Attendance": 19950019,
+     "Memorial Partakers Worldwide": 14121,
+     "Peak of Publishers": 8201545,
+     "Average Publishers Preaching Each Month": 7867958,
+     "Total Number Baptized": 275581,
+     "Total Hours Spent in Field": 1945487604,
+     "Average Bible Studies Each Month": 9499933
+   },
+   {
+     "Year": 2015,
+     "Total Congregations": 118016,
+     "Worldwide Memorial Attendance": 19862783,
+     "Memorial Partakers Worldwide": 15177,
+     "Peak of Publishers": 8220105,
+     "Average Publishers Preaching Each Month": 7987279,
+     "Total Number Baptized": 260273,
+     "Total Hours Spent in Field": 1933473727,
+     "Average Bible Studies Each Month": 9708968
+   },
+   {
+     "Year": 2016,
+     "Total Congregations": 119485,
+     "Worldwide Memorial Attendance": 20085142,
+     "Memorial Partakers Worldwide": 18013,
+     "Peak of Publishers": 8340847,
+     "Average Publishers Preaching Each Month": 8132358,
+     "Total Number Baptized": 264535,
+     "Total Hours Spent in Field": 1983763754,
+     "Average Bible Studies Each Month": 10115264
+   },
+   {
+     "Year": 2017,
+     "Total Congregations": 120053,
+     "Worldwide Memorial Attendance": 20175477,
+     "Memorial Partakers Worldwide": 18564,
+     "Peak of Publishers": 8457107,
+     "Average Publishers Preaching Each Month": 8248982,
+     "Total Number Baptized": 284212,
+     "Total Hours Spent in Field": 2046000202,
+     "Average Bible Studies Each Month": 10071524
+   },
+   {
+     "Year": 2018,
+     "Total Congregations": 119954,
+     "Worldwide Memorial Attendance": 20329317,
+     "Memorial Partakers Worldwide": 19521,
+     "Peak of Publishers": 8579909,
+     "Average Publishers Preaching Each Month": 8360594,
+     "Total Number Baptized": 281744,
+     "Total Hours Spent in Field": 2074655497,
+     "Average Bible Studies Each Month": 10079709
+   },
+   {
+     "Year": 2019,
+     "Total Congregations": 119712,
+     "Worldwide Memorial Attendance": 20919041,
+     "Memorial Partakers Worldwide": 20526,
+     "Peak of Publishers": 8683117,
+     "Average Publishers Preaching Each Month": 8471008,
+     "Total Number Baptized": 303866,
+     "Total Hours Spent in Field": 2088560437,
+     "Average Bible Studies Each Month": 9618182
+   },
+   {
+      "Year": 2020,
+      "Total Congregations": 120387,
+      "Worldwide Memorial Attendance": 17844773,
+      "Memorial Partakers Worldwide": 21182,
+      "Peak of Publishers": 8695808,
+      "Average Publishers Preaching Each Month": 8424185,
+      "Total Number Baptized": 241994,
+      "Total Hours Spent in Field": 1699901531,
+      "Average Bible Studies Each Month": 7705765
+   }
+ ]
