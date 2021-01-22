@@ -6,6 +6,6 @@ def read(year, country=None):
 	if country:
 		for dic in lst_of_dics:
 			if dic['Country or Territory'] == country:
-				return dic
+				return [dic]
 	return lst_of_dics
     

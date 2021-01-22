@@ -18,5 +18,5 @@ def read(year, other_year=None):
 	else:
 		for dic in lst_of_dics:
 			if dic['Year'] == year:
-				return dic
+				return [dic]
         
